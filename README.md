@@ -1,13 +1,18 @@
 # Sapph
 
-**Sapph** is an external cheat tool designed for enhancing gameplay in Counter-Strike 2, providing strategic advantages and performance enhancements.
+**Sapph** is an external cheat tool designed for enhancing gameplay in Counter-Strike 2 and other competitive games, providing strategic advantages and performance enhancements.
 
 ## Features
 
 - Aimbot for precise targeting
 - Triggerbot for prefiring your enemies
 - ESP and Wallhacks for player and item highlighting
-- Customizable settings for personalized gaming experience
+
+## Supported Games
+
+- Counter-Strike 2
+- Counter-Strike: Global Offensive
+- Overwatch 2
 
 **Note:** For the complete list of features and updates, visit our [Discord server](https://discord.sapph.gg).
 
